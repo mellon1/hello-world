@@ -1,4 +1,5 @@
 
+{% include {{ page.nav }} %}
 
 - title: "Projects"
   subcategories:
